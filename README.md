@@ -27,7 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 #### Workflow & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -36,6 +36,15 @@
 * **Algorithms & Data Structures:** Hardcore preparation for competitive programming and technical interviews.
 * **Database Mastery:** Preparing for Oracle Database Certification.
 * **DevOps Culture:** Mastering CI/CD pipelines and advanced Docker orchestration.
+
+---
+
+### 🌟 Open Source Contributions
+
+* **[New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)** — popular internship and job aggregator.
+  * Developed regression tests for the Domain Concurrency Limiter system.
+  * Resolved Thread Synchronization issues and Race Conditions in the testing environment.
+  * Successfully integrated code through a strict CI/CD pipeline (pre-commit hooks, PEP 8 linting, AI & Human Code Review).
 
 ---
 
