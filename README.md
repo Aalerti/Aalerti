@@ -77,6 +77,4 @@
 
 *"Code is craft — and I'm here to master it."*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aalerti&theme=radical" alt="GitHub Stats" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Aalerti&theme=radical&hide_border=true)
