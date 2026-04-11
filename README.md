@@ -77,5 +77,6 @@
 
 *"Code is craft — and I'm here to master it."*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aalerti&theme=radical&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalerti&theme=radical&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aalerti&theme=radical" alt="GitHub Stats" />
+</div>
