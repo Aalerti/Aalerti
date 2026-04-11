@@ -76,3 +76,5 @@
 ---
 
 *"Code is craft — and I'm here to master it."*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aalerti&theme=radical)
