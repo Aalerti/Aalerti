@@ -79,4 +79,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aalerti&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=Aalerti&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalerti&theme=radical&layout=compact&langs_count=6)
