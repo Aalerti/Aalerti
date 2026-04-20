@@ -55,12 +55,6 @@
 * **Stack:** Java, Spring Boot, Spring Security, Hibernate.
 * **Focus:** Transaction atomicity, security, and REST API design.
 
-#### 📊 Open-Source Analytics (Google Analytics Alternative)
-*Privacy-first, lightweight web analytics collector.*
-* **Stack:** Java (Spring WebFlux + Netty), ClickHouse.
-* **Unique Value:** Zero-cookie tracking, ultra-lightweight JS script (<1KB), and full data ownership.
-* **Status:** In active development (Backend core).
-
 ---
 
 ### 📈 2026 Goals
